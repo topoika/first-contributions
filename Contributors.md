@@ -8,6 +8,7 @@
 - [Rothschild](https://github.com/DITEZ)
 - [Zawadi Rug](https://github.com/Zawadirugenyi)
 - [Ann Mitchele]( https://github.com/Ann-Mitchelle)
+- [Daisy Maingi](https://github.com/DaisyMaingi)
 - [Richie Migambi](https://github.com/RichieMuga)
 - [Eryl Bwiru](https://github.com/Eryl-Bwiru1)
 - [Samuel Nyongo](https://github.com/NgigiN)
